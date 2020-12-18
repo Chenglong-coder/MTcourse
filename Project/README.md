@@ -72,7 +72,7 @@ $$
 
 ​		从而构建语言模型的注意力机制如下图所示：
 
-![attention](https://github.com/Chenglong-coder/MTcourse/blob/main/Project/pictures/attention.png?raw=true)
+![attention](https://raw.githubusercontent.com/Chenglong-coder/MTcourse/master/Project/pictures/attention.png)
 
 ​		如上图所示，我们采用$h_{t}$和分别前面时刻神经元状态$h_{t}$进行点积的方法求解注意力分数$Score_{i}$，即得到Attention分数向量为：
 $$
