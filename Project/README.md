@@ -92,7 +92,7 @@ $$
 $$
 ​		模型总的框架图如下所示：
 
-![框架](https://raw.githubusercontent.com/Chenglong-coder/MTcourse/main/Project/pictures/%E6%A1%86%E6%9E%B6.jpg)
+![框架](https://raw.githubusercontent.com/Chenglong-coder/MTcourse/master/Project/pictures/%E6%A1%86%E6%9E%B6.jpg)
 
 ​		此部分关键代码为：
 
