@@ -156,7 +156,7 @@ $$
 $$
 \tilde{m_{t}}=\frac{m_{t}}{1-\beta_{1}^{t}}
 $$
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与$m_{0}$类似，因为$v_{0}$初始化为0导致训练初始阶段![img](file:///C:\Users\Long\AppData\Local\Temp\ksohtml1836\wps67.png)偏向0，对其进行纠正。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与$m_{0}$类似，因为$v_{0}$初始化为0导致训练初始阶段$v_{t}$偏向0，对其进行纠正。
 $$
 \hat{v}=\frac{v_{t}}{1-\beta_{2}^{t}}
 $$
